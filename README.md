@@ -1,1 +1,2 @@
-# webapp
+maven ear example
+=====================
